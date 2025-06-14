@@ -259,7 +259,7 @@ ul a{
     padding-top: 5px;
 }
 
-/* ========== RESPONSIVE DESIGN ========== */
+/* RESPONSIVE DESIGN */
 @media screen and (max-width: 1024px) {
     .nav-search {
         width: 500px;

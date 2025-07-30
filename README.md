@@ -50,7 +50,7 @@ clone-web-app/
 2. Navigate to the project folder:
 
    ```bash
-   cd clone-web-app
+   cd Amazon-clone
 3. Open index.html in your browser:
 - You can double-click the file, or
 - Use Live Server (if using VS Code)

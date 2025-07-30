@@ -46,7 +46,7 @@ clone-web-app/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/clone-web-app.git
+   git clone https://github.com/Anjani-189/Amazon-clone.git
 2. Navigate to the project folder:
 
    ```bash
